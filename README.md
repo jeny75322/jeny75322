@@ -1,9 +1,11 @@
 
 <a href="https://www.glitter-graphics.com"><img src="http://dl9.glitter-graphics.net/pub/1018/1018489rndg90dr17.gif" width=160 height=52 border=0></a><br><a href="https://www.glitter-graphics.com" target=_blank></a>
 
-### My name is Jeny 
+
+### My name is Jeny
 #### A passionate Digital Marketer & Web Designer
-![A passionate Digital Marketer & Web Designer](https://pbs.twimg.com/profile_banners/1454531976338161668/1706003714/1080x360)
+![A passionate Digital Marketer & Web Designer](https://pbs.twimg.com/profile_banners/1454531976338161668/1706005585/1080x360)
+
 This is Jeny from Dhaka, Bangladesh. 
 
 Skills: Web Design/ Digital Marketing /YouTube Marketing
@@ -28,6 +30,9 @@ Skills: Web Design/ Digital Marketing /YouTube Marketing
 ![GitHub metrics](https://metrics.lecoq.io/jeny75322)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=jeny75322)  
+
+
+
 
 
 
