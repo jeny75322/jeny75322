@@ -1,7 +1,9 @@
+(https://pbs.twimg.com/profile_banners/1454531976338161668/1706003714/1080x360)
+
+
 ### Hi there 👋, my name is Jeny
 #### A passionate Digital Marketer & Web Designer
-![A passionate Digital Marketer & Web Designer](https://pbs.twimg.com/profile_banners/1454531976338161668/1706003714/1080x360)
-
+![A passionate Digital Marketer & Web Designer]
 This is Jeny from Dhaka, Bangladesh. 
 
 Skills: Web Design/ Digital Marketing /YouTube Marketing
