@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Jeny
 #### A passionate Digital Marketer & Web Designer
-![A passionate Digital Marketer & Web Designer](https://img.freepik.com/premium-vector/abstract-geometric-shapes-composition-banner_171965-1498.jpg)
-
+![A passionate Digital Marketer & Web Designer]https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/355876583_10227679925478159_8886845225454048881_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeEYFjhn1gZgiBTX_vR1i-ARKtqtSMxoJfkq2q1IzGgl-cboA4OOGv47Q67NHgbeJko&_nc_ohc=4aLUuDyEOW4AX9ztEv4&_nc_ht=scontent.fdac14-1.fna&oh=00_AfAop8jXGDmdzKnxpbAmdcDKM6JD6uh_tU7iCxhZ0TPHuA&oe=65B3FE3B
 This is Jeny from Dhaka, Bangladesh. 
 
 Skills: Web Design/ Digital Marketing /YouTube Marketing
