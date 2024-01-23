@@ -1,5 +1,5 @@
 
-<a href="https://www.glitter-graphics.com"><img src="http://dl9.glitter-graphics.net/pub/1018/1018489rndg90dr17.gif" width=160 height=52 border=0></a><br><a href="https://www.glitter-graphics.com" target=_blank>Jeny75322</a>
+<a href="https://www.glitter-graphics.com"><img src="http://dl9.glitter-graphics.net/pub/1018/1018489rndg90dr17.gif" width=160 height=52 border=0></a><br><a href="https://www.glitter-graphics.com" target=_blank></a>
 
 ### Hi there 👋, my name is Jeny 
 #### A passionate Digital Marketer & Web Designer
