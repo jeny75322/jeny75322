@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Jeny
 #### A passionate Digital Marketer & Web Designer
-![A passionate Digital Marketer & Web Designer](https://www.facebook.com/photo/?fbid=10227679924998147&set=a.3139694725800)
+![A passionate Digital Marketer & Web Designer](https://pbs.twimg.com/profile_banners/1454531976338161668/1706003714/1080x360)
+
 This is Jeny from Dhaka, Bangladesh. 
 
 Skills: Web Design/ Digital Marketing /YouTube Marketing
@@ -22,9 +23,12 @@ Skills: Web Design/ Digital Marketing /YouTube Marketing
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeny75322&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/jeny75322/contributions?format=svg&private=true)  
-
 ![GitHub metrics](https://metrics.lecoq.io/jeny75322)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=jeny75322)  
+
+
+
+
+
 
